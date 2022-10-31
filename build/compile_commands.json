@@ -1,0 +1,17 @@
+[
+{
+  "directory": "F:/HITSZ/C++/shiyan2/shiyan2_project/build",
+  "command": "D:\\APP\\Mingw\\MinGW\\bin\\g++.exe -g -o CMakeFiles\\shiyan2.dir\\Calculator2.cpp.obj -c F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Calculator2.cpp",
+  "file": "F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Calculator2.cpp"
+},
+{
+  "directory": "F:/HITSZ/C++/shiyan2/shiyan2_project/build",
+  "command": "D:\\APP\\Mingw\\MinGW\\bin\\g++.exe -g -o CMakeFiles\\shiyan2.dir\\Function.cpp.obj -c F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Function.cpp",
+  "file": "F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Function.cpp"
+},
+{
+  "directory": "F:/HITSZ/C++/shiyan2/shiyan2_project/build",
+  "command": "D:\\APP\\Mingw\\MinGW\\bin\\g++.exe -g -o CMakeFiles\\shiyan2.dir\\Var.cpp.obj -c F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Var.cpp",
+  "file": "F:\\HITSZ\\C++\\shiyan2\\shiyan2_project\\Var.cpp"
+}
+]
